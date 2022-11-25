@@ -22,8 +22,23 @@ body {
   font-family: 'Inter', sans-serif, monospace;
 }
 
-.nav ul {
+main {
+  padding: 1rem;
+  
+}
+
+a {
+  text-decoration: none;
+}
+
+nav ul {
   display: flex;
   justify-content: space-between;
+  padding: 1rem;
+}
+
+.heroSection {
+  padding: 1rem;
+  padding-top: 0;
 }
 
