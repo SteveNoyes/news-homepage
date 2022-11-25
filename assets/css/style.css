@@ -96,3 +96,12 @@ nav img {
   line-height: 2.5rem;
   padding-bottom: 1rem;
 }
+
+.numStory {
+  display: flex;
+}
+
+.numStoryInfo {
+  flex-direction: column;
+  padding: 1rem;
+}

@@ -59,7 +59,7 @@ Users should be able to:
 
 ### Useful resources
 
-- [The Markdown Guide](https://www.markdownguide.org/) - Helpful in making this more readable. 
+- [Not First Child CSS](https://stackoverflow.com/questions/12289853/notfirst-child-selector) - Helpful in making this more readable. 
 
 - [email input](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/email) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
 
