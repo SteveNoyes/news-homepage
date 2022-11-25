@@ -71,3 +71,28 @@ nav img {
   border: none;
 }
 
+.newNews {
+  padding: 1rem;
+  background-color: var(--very-dark-blue);
+  color: var(--off-white);
+  margin: 4rem 0;
+}
+
+.newNews h1 {
+  font-size: 2rem;
+  font-weight: 800;
+  color: var(--soft-orange);
+  padding-top: .5rem;
+}
+
+.story h2 {
+  font-size: 1.3rem;
+  font-weight: 700;
+  padding-top: 2rem;
+  padding-bottom: 1rem;
+}
+
+.story p {
+  line-height: 2.5rem;
+  padding-bottom: 1rem;
+}
