@@ -15,7 +15,7 @@
   --very-dark-blue: hsl(240, 100%, 5%);
 }
 
-/* Weights: 400, 700, 800 */
+/* Font Weights: 400, 700, 800 */
 
 body {
   font-size: 15px;
@@ -38,13 +38,11 @@ nav ul {
 
 nav ul li:first-child {
   font-size: 3rem;
-  font-weight: 800;
+  font-weight: 900;
   font-family: serif;
-  border: 1px solid red;
 }
 
 nav img {
-  border: 1px solid red;
   margin-top: 1rem;
 }
 
@@ -57,3 +55,19 @@ nav img {
   font-size: 2.5rem;
   font-weight: 800;
 }
+
+.aboveTheFold p {
+  padding: 1.5rem 0;
+  line-height: 2rem;
+}
+
+.aboveTheFold button {
+  width: 50%;
+  padding: 1rem 0;
+  letter-spacing: .4rem;
+  font-weight: 400;
+  color: var(--off-white);
+  background-color: var(--soft-red);
+  border: none;
+}
+
